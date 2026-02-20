@@ -1,0 +1,23 @@
+[
+  {
+    "category": "sponsor",
+    "actionType": "skip",
+    "segment": [
+      237.999,
+      301.027
+    ],
+    "UUID": "00dc281f0a1a9089fe60aa87283513c2a30926e7f65645738a6f649120ef85687",
+    "videoDuration": 610.881,
+    "locked": 0,
+    "votes": 8,
+    "description": "",
+    "keyframesAroundSegmentStart": [
+      234.0338,
+      238.071167
+    ],
+    "keyframesAroundSegmentEnd": [
+      301.0007,
+      302.302
+    ]
+  }
+]

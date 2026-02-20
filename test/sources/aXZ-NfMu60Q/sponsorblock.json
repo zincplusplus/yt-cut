@@ -1,0 +1,107 @@
+[
+  {
+    "category": "sponsor",
+    "actionType": "skip",
+    "segment": [
+      71.791,
+      94.695
+    ],
+    "UUID": "6d3908cb6546e3991e3cf871e39ba18a3450b091bae8cb1342200b431c8237047",
+    "videoDuration": 741.541,
+    "locked": 0,
+    "votes": 10,
+    "description": "",
+    "keyframesAroundSegmentStart": [
+      69.702967,
+      75.608867
+    ],
+    "keyframesAroundSegmentEnd": [
+      94.527767,
+      99.265833
+    ]
+  },
+  {
+    "category": "selfpromo",
+    "actionType": "skip",
+    "segment": [
+      559.646,
+      564.541
+    ],
+    "UUID": "6cc59d35548b31fca15c9a9050900dde1617d8d4c2a8145856b4e0bbee14caf27",
+    "videoDuration": 741.541,
+    "locked": 0,
+    "votes": 6,
+    "description": "",
+    "keyframesAroundSegmentStart": [
+      558.124233,
+      559.7592
+    ],
+    "keyframesAroundSegmentEnd": [
+      564.397167,
+      566.2657
+    ]
+  },
+  {
+    "category": "sponsor",
+    "actionType": "skip",
+    "segment": [
+      678.087,
+      723.922
+    ],
+    "UUID": "1e6540ec964b860daeb8c52e45b9222a1a89537e9cb3841f24af1daa86f57e697",
+    "videoDuration": 741.541,
+    "locked": 0,
+    "votes": 7,
+    "description": "",
+    "keyframesAroundSegmentStart": [
+      675.3747,
+      678.411067
+    ],
+    "keyframesAroundSegmentEnd": [
+      722.3216,
+      729.061667
+    ]
+  },
+  {
+    "category": "selfpromo",
+    "actionType": "skip",
+    "segment": [
+      724,
+      730.531
+    ],
+    "UUID": "8922f7d3c3bebd4512389b795d03ef855dc57e240d0a74e7860c2998804ae76a7",
+    "videoDuration": 741.52515,
+    "locked": 0,
+    "votes": 2,
+    "description": "",
+    "keyframesAroundSegmentStart": [
+      722.3216,
+      729.061667
+    ],
+    "keyframesAroundSegmentEnd": [
+      729.061667,
+      736.001933
+    ]
+  },
+  {
+    "category": "sponsor",
+    "actionType": "skip",
+    "segment": [
+      730.531,
+      733.69
+    ],
+    "UUID": "c5a7dbb1d4363359a339acbe75ca2f2ee9a8dc64d1635e2f042093cafb81eb5e7",
+    "videoDuration": 741.52515,
+    "locked": 0,
+    "votes": 0,
+    "description": "",
+    "keyframesAroundSegmentStart": [
+      729.061667,
+      736.001933
+    ],
+    "keyframesAroundSegmentEnd": [
+      729.061667,
+      736.001933
+    ]
+  }
+]

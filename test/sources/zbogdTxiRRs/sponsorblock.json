@@ -1,0 +1,86 @@
+[
+  {
+    "category": "sponsor",
+    "actionType": "skip",
+    "segment": [
+      58.692,
+      83.619
+    ],
+    "UUID": "8ab4a1fe73300c681f50b74042ff5a9d3357bd4e77905795c9a2061ca5c40a2a7",
+    "videoDuration": 998.181,
+    "locked": 1,
+    "votes": 8,
+    "description": "",
+    "keyframesAroundSegmentStart": [
+      55.055,
+      60.06
+    ],
+    "keyframesAroundSegmentEnd": [
+      80.08,
+      85.085
+    ]
+  },
+  {
+    "category": "selfpromo",
+    "actionType": "skip",
+    "segment": [
+      667.147,
+      682.755
+    ],
+    "UUID": "982479a395ad84fe8dde737e0ab94738a0dbedeec23e11f90613788447018a5f7",
+    "videoDuration": 998.181,
+    "locked": 0,
+    "votes": 0,
+    "description": "",
+    "keyframesAroundSegmentStart": [
+      665.665,
+      670.67
+    ],
+    "keyframesAroundSegmentEnd": [
+      680.68,
+      685.685
+    ]
+  },
+  {
+    "category": "selfpromo",
+    "actionType": "skip",
+    "segment": [
+      887.645,
+      891.495
+    ],
+    "UUID": "50c4319557fa49c6784640f9da95e76445992d06c7bad493d7d6600c039a63637",
+    "videoDuration": 998.181,
+    "locked": 0,
+    "votes": 0,
+    "description": "",
+    "keyframesAroundSegmentStart": [
+      885.885,
+      890.89
+    ],
+    "keyframesAroundSegmentEnd": [
+      890.89,
+      895.895
+    ]
+  },
+  {
+    "category": "sponsor",
+    "actionType": "skip",
+    "segment": [
+      901.93,
+      989.607
+    ],
+    "UUID": "c337984d02147dd9366f1a17d61ceafb3321bc13fcf7e4320597b61f22d0e5967",
+    "videoDuration": 998.17285,
+    "locked": 1,
+    "votes": 6,
+    "description": "",
+    "keyframesAroundSegmentStart": [
+      900.9,
+      905.905
+    ],
+    "keyframesAroundSegmentEnd": [
+      985.985,
+      990.99
+    ]
+  }
+]

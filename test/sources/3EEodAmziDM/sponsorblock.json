@@ -1,0 +1,65 @@
+[
+  {
+    "category": "sponsor",
+    "actionType": "skip",
+    "segment": [
+      130.979,
+      148.849
+    ],
+    "UUID": "4ea62df75820821d642c1504fe15bd244ee259fb4ed1e752a6d3acbbb47bd8427",
+    "videoDuration": 1752.621,
+    "locked": 1,
+    "votes": 13,
+    "description": "",
+    "keyframesAroundSegmentStart": [
+      130.13,
+      135.135
+    ],
+    "keyframesAroundSegmentEnd": [
+      145.145,
+      150.15
+    ]
+  },
+  {
+    "category": "selfpromo",
+    "actionType": "skip",
+    "segment": [
+      642.556,
+      648.914
+    ],
+    "UUID": "2ffbb6c18e258913715ebcf2499247ad7f4628c0b336e68bc424482f4f459ad07",
+    "videoDuration": 1752.6049,
+    "locked": 1,
+    "votes": 3,
+    "description": "",
+    "keyframesAroundSegmentStart": [
+      640.64,
+      645.645
+    ],
+    "keyframesAroundSegmentEnd": [
+      645.645,
+      650.65
+    ]
+  },
+  {
+    "category": "sponsor",
+    "actionType": "skip",
+    "segment": [
+      1683.296,
+      1732.048
+    ],
+    "UUID": "21b9fce58a52201f5d58388a51b987238ed9b0472d304ce2c89a4d34221c80667",
+    "videoDuration": 1752.6049,
+    "locked": 1,
+    "votes": 8,
+    "description": "",
+    "keyframesAroundSegmentStart": [
+      1681.68,
+      1686.685
+    ],
+    "keyframesAroundSegmentEnd": [
+      1731.73,
+      1736.735
+    ]
+  }
+]

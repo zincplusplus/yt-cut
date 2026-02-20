@@ -1,0 +1,107 @@
+[
+  {
+    "category": "selfpromo",
+    "actionType": "skip",
+    "segment": [
+      67.917,
+      83.747
+    ],
+    "UUID": "66a3efc5ea1845dd85a9c6fc29e1f434705f603ee6c7e48daae00785de460c137",
+    "videoDuration": 807.621,
+    "locked": 0,
+    "votes": 2,
+    "description": "",
+    "keyframesAroundSegmentStart": [
+      65.2652,
+      68.2682
+    ],
+    "keyframesAroundSegmentEnd": [
+      83.216467,
+      88.321567
+    ]
+  },
+  {
+    "category": "sponsor",
+    "actionType": "skip",
+    "segment": [
+      94.737,
+      108.662
+    ],
+    "UUID": "07897471224c80656a0237ec65a6c5176f95aa86fec9f2b5a6fdf3c4d1668a4d7",
+    "videoDuration": 807.621,
+    "locked": 1,
+    "votes": 8,
+    "description": "",
+    "keyframesAroundSegmentStart": [
+      91.324567,
+      95.261833
+    ],
+    "keyframesAroundSegmentEnd": [
+      108.441667,
+      114.9148
+    ]
+  },
+  {
+    "category": "selfpromo",
+    "actionType": "skip",
+    "segment": [
+      531.891,
+      552.622
+    ],
+    "UUID": "b3f508aca4aea41b55be33594c80ffe99c09c2cde036c1cf967bf6ac371849ed7",
+    "videoDuration": 807.621,
+    "locked": 1,
+    "votes": 6,
+    "description": "",
+    "keyframesAroundSegmentStart": [
+      529.595733,
+      531.964767
+    ],
+    "keyframesAroundSegmentEnd": [
+      552.618733,
+      555.087867
+    ]
+  },
+  {
+    "category": "sponsor",
+    "actionType": "skip",
+    "segment": [
+      532,
+      552.5
+    ],
+    "UUID": "91431ac21c5baf29678da3360f3db4e45845039b885712c2639794dce0fa4b557",
+    "videoDuration": 807.601,
+    "locked": 0,
+    "votes": 0,
+    "description": "",
+    "keyframesAroundSegmentStart": [
+      531.964767,
+      532.598733
+    ],
+    "keyframesAroundSegmentEnd": [
+      551.3508,
+      552.618733
+    ]
+  },
+  {
+    "category": "sponsor",
+    "actionType": "skip",
+    "segment": [
+      729.622,
+      796.244
+    ],
+    "UUID": "35b2a2867575db351a8540593fd3faf3f1cd790f5f54724bde301fcf8d0ddf347",
+    "videoDuration": 807.621,
+    "locked": 1,
+    "votes": 5,
+    "description": "",
+    "keyframesAroundSegmentStart": [
+      723.723,
+      729.729
+    ],
+    "keyframesAroundSegmentEnd": [
+      795.5948,
+      802.6018
+    ]
+  }
+]

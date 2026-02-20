@@ -1,0 +1,32 @@
+[
+  {
+    "category": "selfpromo",
+    "actionType": "skip",
+    "segment": [0, 19.906],
+    "UUID": "498fdbbb1f4701a7674b3072b34e62d67862bbf5957f901b22838a07ad4b66017",
+    "videoDuration": 661.181,
+    "locked": 1,
+    "votes": 5,
+    "description": ""
+  },
+  {
+    "category": "sponsor",
+    "actionType": "skip",
+    "segment": [318.042, 401.893],
+    "UUID": "7af6ad26eb14b8ffdf3171f401080e6397f964e80d99a48b2878718f78930ec67",
+    "videoDuration": 661.181,
+    "locked": 0,
+    "votes": 10,
+    "description": ""
+  },
+  {
+    "category": "selfpromo",
+    "actionType": "skip",
+    "segment": [645.002, 661.211429],
+    "UUID": "45e44a075a2b92a721d4f35fbcf0e8c088269320bd8b7b874767c8623a1757a37",
+    "videoDuration": 661.17017,
+    "locked": 0,
+    "votes": 0,
+    "description": ""
+  }
+]

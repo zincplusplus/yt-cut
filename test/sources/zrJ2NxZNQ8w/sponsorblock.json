@@ -1,0 +1,44 @@
+[
+  {
+    "category": "sponsor",
+    "actionType": "skip",
+    "segment": [
+      820.568,
+      883.8
+    ],
+    "UUID": "5cbe50e7fe8cf0b4e35cf3fdcac344b4b5e3d08b39106857a74188f96d99db747",
+    "videoDuration": 1467.421,
+    "locked": 0,
+    "votes": 2,
+    "description": "",
+    "keyframesAroundSegmentStart": [
+      816.816,
+      822.822
+    ],
+    "keyframesAroundSegmentEnd": [
+      882.882,
+      888.888
+    ]
+  },
+  {
+    "category": "interaction",
+    "actionType": "skip",
+    "segment": [
+      1431.684,
+      1440.54
+    ],
+    "UUID": "7a3ddd0ad9c2099d6d3faca5cad670864612f36cc625d6dc9d02da07af854a077",
+    "videoDuration": 1467.421,
+    "locked": 0,
+    "votes": -1,
+    "description": "",
+    "keyframesAroundSegmentStart": [
+      1429.428,
+      1435.434
+    ],
+    "keyframesAroundSegmentEnd": [
+      1435.434,
+      1441.44
+    ]
+  }
+]
